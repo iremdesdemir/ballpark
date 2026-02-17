@@ -9,6 +9,7 @@ dependencies = [
     "jupyter",
     "jupyterlab",
     "jupyterlab-citation-manager",
+    "jupytext>=1.19.1",
 ]
 
 [project.optional-dependencies]
