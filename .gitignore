@@ -119,3 +119,6 @@ env-*/
 # Cursor / SpecStory
 .cursor*
 .specstory*/
+
+# Local sources for ballpark papers (copyrighted)
+source/
